@@ -10,16 +10,16 @@ This repository contains [RefineDet](https://github.com/sfzhang15/RefineDet) wit
 - Faster speed
 
 
-<p align="left">
-<img src="https://github.com/youngwanLEE/VoVNet-RefineDet/blob/master/OSA.PNG" alt="OSA" width="700px">
+<p align="center">
+<img src="https://github.com/youngwanLEE/VoVNet-RefineDet/blob/master/OSA.PNG" alt="OSA" width="500px">
 </p>
 
-<p align="left">
-<img src="https://github.com/youngwanLEE/VoVNet-RefineDet/blob/master/coco_results.PNG" alt="coco_results" width="777px">
+<p align="center">
+<img src="https://github.com/youngwanLEE/VoVNet-RefineDet/blob/master/coco_results.PNG" alt="coco_results" width="800px">
 </p>
 
-<p align="left">
-<img src="https://github.com/youngwanLEE/VoVNet-RefineDet/blob/master/VOC_results.PNG" alt="VOC_results" width="777px">
+<p align="center">
+<img src="https://github.com/youngwanLEE/VoVNet-RefineDet/blob/master/VOC_results.PNG" alt="VOC_results" width="800px">
 </p>
 
 
