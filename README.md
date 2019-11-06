@@ -11,7 +11,7 @@ This repository contains [RefineDet](https://github.com/sfzhang15/RefineDet) wit
 
 
 <p align="left">
-<img src="https://github.com/youngwanLEE/VoVNet-RefineDet/blob/master/OSA.PNG" alt="OSA" width="777px">
+<img src="https://github.com/youngwanLEE/VoVNet-RefineDet/blob/master/OSA.PNG" alt="OSA" width="700px">
 </p>
 
 <p align="left">
