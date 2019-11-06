@@ -1,0 +1,22 @@
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+build/
+.build_release
+
+*.npy
+**/.ipynb_checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# Pycharm editor settings
+.idea
+
+# project dirs
+/models

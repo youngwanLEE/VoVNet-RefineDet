@@ -1,0 +1,27 @@
+train_net: "models/VoVNet/VOC0712/RefineDet_VoVNet39_512x512/train.prototxt"
+test_net: "models/VoVNet/VOC0712/RefineDet_VoVNet39_512x512/test.prototxt"
+test_iter: 4952
+test_interval: 10000
+base_lr: 0.0010000000475
+display: 10
+max_iter: 180000
+lr_policy: "multistep"
+gamma: 0.10000000149
+momentum: 0.899999976158
+weight_decay: 9.99999974738e-05
+snapshot: 100000
+snapshot_prefix: "models/VoVNet/VOC0712/RefineDet_VoVNet39_512x512/VOC0712_RefineDet_VoVNet39_512x512"
+solver_mode: GPU
+device_id: 0
+debug_info: false
+snapshot_after_train: true
+test_initialization: true
+average_loss: 10
+stepvalue: 130000
+stepvalue: 160000
+stepvalue: 180000
+iter_size: 1
+type: "SGD"
+eval_type: "detection"
+ap_version: "11point"
+
