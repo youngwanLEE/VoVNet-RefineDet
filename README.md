@@ -1,5 +1,7 @@
 # RefineDet with [VoVNet](https://arxiv.org/abs/1904.09730)(CVPRW'19) Backbone Networks for Real-time Object Detection
 
+[![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
+
 This repository contains [RefineDet](https://github.com/sfzhang15/RefineDet) with [VoVNet](https://arxiv.org/abs/1904.09730) Backbone Networks in the following paper
 [An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection](https://arxiv.org/abs/1904.09730) ([CVPRW'19](http://www.ee.oulu.fi/~lili/CEFRLatCVPR2019.html), oral)
 
