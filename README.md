@@ -107,11 +107,11 @@ This repository contains [RefineDet](https://github.com/sfzhang15/RefineDet) wit
 ### Models
 
 1. PASCAL VOC models :
-   * 07+12: [VoVNet39-RefineDet320](https://dl.dropbox.com/sh/zr962vn4y3m16nv/AAAUONrR3QwrQYFbbccezjeNa?dl=1),   [VoVNet39-RefineDet512](https://dl.dropbox.com/sh/wla1bijjr8ql2m3/AADx_UFyewocAGupg_U2ZjOva?dl=1)
+   * 07+12: [VoVNet39-RefineDet320](https://www.dropbox.com/sh/epllpxx3pxfl9yd/AAAaHXhsAxeDDctmMou86LoWa?dl=1),   [VoVNet39-RefineDet512](https://www.dropbox.com/sh/wla1bijjr8ql2m3/AADx_UFyewocAGupg_U2ZjOva?dl=1)
 
 
 2. COCO models:
-   * trainval35k: [VoVNet39-RefineDet320](https://dl.dropbox.com/sh/sjg5lagetlada9w/AAAXUZ24w0P5TuY210VkwPH9a?dl=1), [VoVNet39-RefineDet512](https://dl.dropbox.com/sh/1kt6w1cfxxjpp02/AABjGrfb_jY50iYddiAlfQBUa?dl=1)
+   * trainval35k: [VoVNet39-RefineDet320](https://www.dropbox.com/sh/sjg5lagetlada9w/AAAXUZ24w0P5TuY210VkwPH9a?dl=1), [VoVNet39-RefineDet512](https://www.dropbox.com/sh/1kt6w1cfxxjpp02/AABjGrfb_jY50iYddiAlfQBUa?dl=1)
 
 
 
